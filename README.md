@@ -162,7 +162,7 @@ Throughout the analysis, several assumptions were made due to data limitations a
 
 ---
 
-- The Interactive Tableau Dashboard for exploring churn trends can be found here.
-- Raw dataset can be found here.
+- Interactive Tableau Dashboard for exploring churn trends can be found [here.](https://public.tableau.com/app/profile/seana.parker/viz/CustomerChurnRateDashboard_17419175374080/ChurnRateDashboard)
+- Raw dataset can be found [here.](Exploration/ConnectCom_Telco_Customer_Churn_Dataset.csv)
 - For more of my projects and data journey, visit my portfolio website and reach out!
   
