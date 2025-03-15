@@ -93,7 +93,7 @@ Churn at ConnectCom is highest among month-to-month customers (42.7%), while tho
   - Customers without internet had the lowest churn at just 7.4%, likely because this group includes TV or landline-only customers with fewer reasons to switch.
 
 <p align="center">
-  <img src="Visualizations/Churn%20Rate%20by%20Service.png" alt="Churn Rate by Service" width="600">
+  <img src="Visualizations/Churn%20Rate%20by%20Service.png" alt="Churn Rate by Service" width="550">
 </p>
 
 - The data suggests that fiber optic customers may be more price-sensitive or have more competitive alternatives. It also highlights the value of service bundling, as customers with both internet and streaming services are more likely to stay.
