@@ -20,6 +20,7 @@
 In this case study, I analyzed customer churn for **ConnectCom**, a fictional telecommunications provider offering internet, TV, and phone services across the United States**. Using Tableau, I examined customer behavior to uncover key churn drivers and develop targeted retention strategies. The insights from this analysis help marketing and customer success teams** identify high-risk customers, optimize service offerings, and implement strategies to improve customer loyalty and profitability.**
 
 Interactive Tableau Dashboard for exploring churn trends can be found [here.](https://public.tableau.com/app/profile/seana.parker/viz/CustomerChurnRateDashboard_17419175374080/ChurnRateDashboard)
+
 Raw dataset can be found [here.](Exploration/ConnectCom_Telco_Customer_Churn_Dataset.csv)
 
 ---
