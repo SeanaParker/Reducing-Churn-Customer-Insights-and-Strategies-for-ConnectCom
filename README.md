@@ -58,6 +58,11 @@ Churn at ConnectCom is highest among month-to-month customers (42.7%), while tho
 
 <img src="Visualizations/Cohort%20Over%20Time.png" alt="Cohort Over Time" width="600">
 
+<p align="center">
+  <img src="Visualizations/Cohort%20Over%20Time.png" alt="Cohort Over Time" width="600">
+</p>
+
+
 - Given this trend, early intervention strategies such as enhanced customer onboarding, proactive support, and personalized retention offers may help curb churn and improve long term loyalty.
 
 ### Contract Type & Customer Retention
