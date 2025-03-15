@@ -114,19 +114,15 @@ Based on the findings, the Customer Experience and Revenue Teams should prioriti
 ### Increase Contract Commitment
 - Develop discounted annual contract plans to encourage customers to transition from month-to-month subscriptions.
 - Introduce early renewal incentives to reduce churn among high-risk contract expirations and improve retention ahead of contract renewal periods.
-
 ### Strengthen Service Bundling
 - Promote fiber upgrades to DSL users to encourage migration to higher-value plans, aiming for a steady increase in fiber adoption.
 - Expand streaming service bundles to appeal to high-churn customer segments and improve overall customer satisfaction.
-
 ### Enhance Early Retention Efforts
 - Launch a 6-month retention initiative with personalized onboarding, engagement touchpoints, and proactive customer outreach to address early churn risks.
 - Strengthen first-contact resolution in customer support to ensure a smoother service experience for new subscribers, reducing frustration-driven churn.
-
 ### Address Pricing Sensitivities
 - Develop loyalty-based pricing discounts to improve renewal rates among long-tenured customers who may be considering switching providers.
 - Test a tiered pricing model to provide more flexible options for different customer segments while maintaining profitability.
-
 ### Optimize Payment Methods
 - Encourage credit card and bank transfer payments to reduce churn among customers using high-risk payment methods like electronic checks.
 - Simplify and streamline payment processing workflows to enhance the customer experience and minimize payment-related support issues.
