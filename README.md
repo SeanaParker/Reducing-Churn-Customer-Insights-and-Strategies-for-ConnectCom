@@ -59,7 +59,7 @@ Churn at ConnectCom is highest among month-to-month customers (42.7%), while tho
   - This suggests that recent changes in pricing, service offerings, or competitive pressure may be contributing to higher churn.
 
 <p align="center">
-  <img src="Visualizations/Cohort%20Over%20Time.png" alt="Cohort Over Time" width="550">
+  <img src="Visualizations/Cohort%20Over%20Time.png" alt="Cohort Over Time" width="650">
 </p>
 
 - Given this trend, early intervention strategies such as enhanced customer onboarding, proactive support, and personalized retention offers may help curb churn and improve long term loyalty.
@@ -75,7 +75,7 @@ Churn at ConnectCom is highest among month-to-month customers (42.7%), while tho
   - Two-Year contracts had the lowest churn at just 2.83%, suggesting that customers who commit long-term are far more likely to stay.
 
 <p align="center">
-  <img src="Visualizations/Churn%20by%20Contract%20Type.png" alt="Churn by Contract Type" width="650">
+  <img src="Visualizations/Churn%20by%20Contract%20Type.png" alt="Churn by Contract Type" width="600">
 </p>
 
 - This pattern suggests that short-term customers may be more price-sensitive or more likely to switch providers. Since month-to-month plans drive the highest churn, understanding what influences their decisions, whether pricing, service quality, or promotional offers, could be key to improving retention.
@@ -93,7 +93,7 @@ Churn at ConnectCom is highest among month-to-month customers (42.7%), while tho
   - Customers without internet had the lowest churn at just 7.4%, likely because this group includes TV or landline-only customers with fewer reasons to switch.
 
 <p align="center">
-  <img src="Visualizations/Churn%20Rate%20by%20Service.png" alt="Churn Rate by Service" width="550">
+  <img src="Visualizations/Churn%20Rate%20by%20Service.png" alt="Churn Rate by Service" width="600">
 </p>
 
 - The data suggests that fiber optic customers may be more price-sensitive or have more competitive alternatives. It also highlights the value of service bundling, as customers with both internet and streaming services are more likely to stay.
