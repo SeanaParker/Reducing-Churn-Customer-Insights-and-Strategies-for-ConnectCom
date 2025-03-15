@@ -40,7 +40,7 @@ The dataset, sourced from IBM’s TechXchange Community, contains 7,043 customer
 
 Churn at ConnectCom is highest among month-to-month customers (42.7%), while those on two-year contracts have the lowest churn (2.8%), making contract incentives a key retention lever. Additionally, fiber optic customers without streaming services have the highest churn (45.3%), while bundling streaming improves retention across both DSL and fiber plans. This suggests that service bundling plays a crucial role in customer loyalty. Since 36% of churned customers leave within the first five months, early engagement efforts could significantly reduce customer loss.
 
-<img src="Visualizations/Churn%20Rate%20Dashboard.png" alt="Churn Rate Dashboard" width="800">
+<img src="Visualizations/Churn%20Rate%20Dashboard.png" alt="Churn Rate Dashboard" width="750">
 
 ---
 
