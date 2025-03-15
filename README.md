@@ -56,8 +56,6 @@ Churn at ConnectCom is highest among month-to-month customers (42.7%), while tho
 
   - This suggests that recent changes in pricing, service offerings, or competitive pressure may be contributing to higher churn.
 
-<img src="Visualizations/Cohort%20Over%20Time.png" alt="Cohort Over Time" width="600">
-
 <p align="center">
   <img src="Visualizations/Cohort%20Over%20Time.png" alt="Cohort Over Time" width="600">
 </p>
