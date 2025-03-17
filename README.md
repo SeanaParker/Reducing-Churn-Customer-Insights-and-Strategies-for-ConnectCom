@@ -1,4 +1,4 @@
-# Reducing Churn: Customer Insights and Strategies for ConnectCom
+# Reducing Churn at ConnectCom: Customer Insights and Retention Strategies
 
 ## Table of Contents
 - [Project Background](#project-background)
