@@ -76,9 +76,8 @@ Churn at ConnectCom is highest among month-to-month customers (42.7%), while tho
   - Two-Year contracts had the lowest churn at just 2.83%, suggesting that customers who commit long-term are far more likely to stay.
 
 <p align="center">
-  <img src="Visualizations/Churn%20by%20Contract%20Type.png" alt="Churn by Contract Type" width="500">
+  <img src="Visualizations/Churn%20Rate%20by%20Contract%20Type.png" alt="Churn Rate by Contract Type" width="500">
 </p>
-
 - This pattern suggests that short-term customers may be more price-sensitive or more likely to switch providers. Since month-to-month plans drive the highest churn, understanding what influences their decisions, whether pricing, service quality, or promotional offers, could be key to improving retention.
 
 ### Service Bundling & Churn Rates
